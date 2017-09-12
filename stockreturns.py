@@ -16,3 +16,4 @@ for k in Portfolio:
 		print(k + ': ' + str(ReturnOverMarket) + ' --> SELL POSITION')
 	else:
 		print(k + ': ' + str(ReturnOverMarket) + ' --> HOLD POSITION')
+#hello
